@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Automation and Control Systems
 - 🌱 I’m currently learning Software Development best practises, and Deep Learning in depth
-- 💬 **$`\hat{y} = w^TX + b`$** as the sum of incoming signals approaches the neuron; passing the threshold.. then **$`ReLU(x) = max(0,χ)`$** will trigger the transmission
+- 💬 **$`\hat{y} = w^TX + b`$** as the sum of incoming signals approaches the neuron; exceeding the threshold.. then **$`ReLU(x) = max(0,χ)`$** will trigger the transmission
 
 <!--
 **leccode/leccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
