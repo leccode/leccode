@@ -1,7 +1,7 @@
 # Hi there 👋
 ## I create algorithms to print "Hello World!"
 ## My name is Constantine and I am a Biomedical Engineer.
-## I am passionate about programming, algorithms and the use of them in Biology and Medicine.
+## I am passionate about programming, algorithms, Quantum Physics, and the use of them in Biology and Medicine.
 ## Curious on how things work around the world..
 ## Here are some further info about me!
 
