@@ -5,7 +5,7 @@
 ## Curious on how things work around the world..
 ## Here are some further info about me!
 
-- 🔭 I’m currently working on Automation and Control Systems
+<!--- 🔭 I’m currently working on-->
 - 🌱 I’m currently learning Software Development best practises, and Deep Learning in depth
 - 💬 **$`\hat{y} = w^TX + b`$** as the sum of incoming signals approaches the neuron; exceeding the threshold.. then **$`ReLU(x) = max(0,χ)`$** will trigger the transmission
 
