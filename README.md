@@ -1,12 +1,12 @@
 # Hi there 👋
 ## I create algorithms to print "Hello World!"
 ## My name is Constantine and I am a Biomedical Engineer.
-## I am passionate about programming, algorithms, Quantum Physics, and the use of them in Biology and Medicine.
+## I am passionate about programming, algorithms, and the use of them in Biology and Medicine.
 ## Curious on how things work around the world..
 ## Here are some further info about me!
 
 <!--- 🔭 I’m currently working on-->
-- 🌱 I’m currently learning Software Development best practises, and Deep Learning in depth
+- 🌱 I’m currently learning Software Development best practises
 - 💬 **$`\hat{y} = w^TX + b`$** as the sum of incoming signals approaches the neuron; exceeding the threshold.. then **$`ReLU(x) = max(0,χ)`$** will trigger the transmission
 
 <!--
