@@ -6,7 +6,7 @@
 ## Here are some further info about me!
 
 <!--- 🔭 I’m currently working on-->
-- 🌱 I’m currently learning Software Development best practises
+- 🌱 I’m currently learning Software Development best practises, and Full-Stack Engineering
 - 💬 **$`\hat{y} = w^TX + b`$** as the sum of incoming signals approaches the neuron; exceeding the threshold.. then **$`ReLU(x) = max(0,χ)`$** will trigger the transmission
 
 <!--
