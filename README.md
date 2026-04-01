@@ -1,13 +1,17 @@
 # Hi there 👋
 ## I create algorithms to print "Hello World!"
 ## My name is Constantine and I am a Biomedical Engineer.
-## I am passionate about programming, algorithms, and the use of them in Biology and Finance.
+## I am passionate about Programming, Algorithms, and Quantum Mechanics & Quantum Computing.
+## I find interesting the intersection of them in Biology and Finance.
 ## Curious on how things work around the world..
 ## Here are some further info about me!
 
 <!--- 🔭 I’m currently working on-->
-- 🌱 I’m currently learning Software Development best practises, and Full-Stack Engineering
-- 💬 **$`\hat{y} = w^TX + b`$** as the sum of incoming signals approaches the neuron; exceeding the threshold.. then **$`ReLU(x) = max(0,χ)`$** will trigger the transmission
+- 🌱 I work as a Software Engineer.
+- ⚡ Probability Density Function: $`P(x,t) = |Ψ(x,t)|^2 = Ψ^*(x,t)Ψ(x,t)`$.
+- 🔭 Total Probability Calculation: $`P(α \le x \le b,t) = \int_{a}^{b} |Ψ(x,t)|^2 \,dx`$.
+- 🤔 Normalization: $`\int_{-\infty}^{\infty} |Ψ(x,t)|^2 \,dx = 1`$.
+- 💬 **$`\hat{y} = w^TX + b`$** as the sum of incoming signals approaches the neuron; exceeding the threshold.. then **$`ReLU(x) = max(0,χ)`$** will trigger the transmission.
 
 <!--
 **leccode/leccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
