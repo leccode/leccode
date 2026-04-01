@@ -11,6 +11,7 @@
 - ⚡ Probability Density Function: $`P(x,t) = |Ψ(x,t)|^2 = Ψ^*(x,t)Ψ(x,t)`$.
 - 🔭 Total Probability Calculation: $`P(α \le x \le b,t) = \int_{a}^{b} |Ψ(x,t)|^2 \,dx`$.
 - 🤔 Normalization: $`\int_{-\infty}^{\infty} |Ψ(x,t)|^2 \,dx = 1`$.
+- 〰️ Dirac Notation representing quantum state: $`\ket{\psi} = \begin{pmatrix}α\\β\end{pmatrix} = α\ket{0} + β\ket{1}`$.
 - 💬 **$`\hat{y} = w^TX + b`$** as the sum of incoming signals approaches the neuron; exceeding the threshold.. then **$`ReLU(x) = max(0,χ)`$** will trigger the transmission.
 
 <!--
