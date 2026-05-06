@@ -29,17 +29,48 @@
     width="30%"
     height="30%"
     alt="GIF"/>
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhnN3d1N3MxMjRtbTBmaDV3YXB2ZXd4N3kzdXozOXF0dGliNDVwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6qfWAtkBuymg7glaO/giphy.gif"
+    width="30%"
+    height="30%"
+    alt="GIF"/>
 </p>
 
-- ⚡ Probability Density Function: $`P(x,t) = |Ψ(x,t)|^2 = Ψ^*(x,t)Ψ(x,t)`$.
-- 🔭 Total Probability Calculation: $`P(α \le x \le b,t) = \int_{a}^{b} |Ψ(x,t)|^2 \,dx`$.
-- 🤔 Normalization: $`\int_{-\infty}^{\infty} |Ψ(x,t)|^2 \,dx = 1`$.
-- 〰️ Dirac Notation representing quantum state: $`\ket{\psi} = \begin{pmatrix}α\\β\end{pmatrix} = α\ket{0} + β\ket{1}`$.
-- 💬 **$`\hat{y} = w^TX + b`$** as the sum of incoming signals approaches the neuron; exceeding the threshold.. then **$`ReLU(x) = max(0,χ)`$** will trigger the transmission.
-- 📫 Reach me at **costas.lekkos@gmail.com**.
+<h3 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F74015FF&center=true&vCenter=true&random=false&width=600&lines=Science+And+Engineering"
+    alt="Typing Animation"/>
+</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<table align="left">
+<div align="center">
+
+| Concept | Expression |
+|:--------|:-----------|
+| **⚡ Probability Density Function** | $P(x,t) = \lvert\Psi(x,t)\rvert^2 = \Psi^*(x,t)\Psi(x,t)$ |
+| **🔭 Total Probability** | $P(a \le x \le b, t) = \int_a^b \lvert\Psi(x,t)\rvert^2dx$ |
+| **🤔 Normalization Condition** | $\int_{-\infty}^{\infty} \lvert\Psi(x,t)\rvert^2dx = 1$ |
+| **〰️ Quantum State (Dirac Notation)** | $`\ket{\psi} = \begin{pmatrix}α\\β\end{pmatrix} = α\ket{0} + β\ket{1}`$ |
+| **🧠 Neuron Activation Signal** | $\hat{y} = w^T X + b$ |
+| **💬 Activation Function (ReLU)** | $\text{ReLU}(x) = \max(0, x)$ |
+| **📫 Contact** | [costas.lekkos@gmail.com](mailto:costas.lekkos@gmail.com) |
+
+</div>
+
+<p align="center">
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndoZjY0dGZ6dDB3ZXJoeDkxZDNvY2pobTBycm1zcGFhaXhlemV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13twUEuUnCrEju/giphy.gif"
+    width="30%"
+    height="30%"
+    alt="GIF"/>
+</p>
+
+<h3 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F74015FF&center=true&vCenter=true&random=false&width=600&lines=Tech-Stack+And+Tools"
+    alt="Typing Animation"/>
+</h3>
+
+<table align="center">
   <tr>
     <td align="center"><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></td>
