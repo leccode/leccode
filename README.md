@@ -82,14 +82,14 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
       </a>
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">D</td>
+    <td align="center">A</td>
+    <td align="center">T</td>
+    <td align="center">A</td>
+    <td align="center">B</td>
+    <td align="center">A</td>
+    <td align="center">S</td>
+    <td align="center">E</td>
   </tr>
   
   <tr>
@@ -118,36 +118,97 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">B</td>
+    <td align="center">A</td>
+    <td align="center">C</td>
+    <td align="center">
+      <img
+        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW94eHk3NTc5MTBnZHp2NjFoMG9yMGgyN3JqcW5reWh5cG14ZGRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlqCSOe3zi65vfErwS/giphy.gif"
+        width="40"
+        height="40"
+        alt="GIF"/>
+    </td>
+    <td align="center">K</td>
   </tr>
   
   <tr>
-    <td align="center"><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></td>
-    <td align="center"></td>
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">F</td>
+    <td align="center">R</td>
+    <td align="center">
+      <img
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRnYm9md2RuamZ1bHppcjB6djhoOGxvN25kdm1nOG45M3hxcTNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9j5LELD2fSz2aYGGCe/giphy.gif"
+        width="40"
+        height="40"
+        alt="GIF"/>
+    </td>
+    <td align="center">N</td>
+    <td align="center">T</td>
   </tr>
+  
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></td>
-    <td align="center"></td>
-    <td>
+    <td align="center">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">T</td>
+    <td align="center">
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">L</td>
+    <td align="center">
+      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
       <img
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpNHJ1dnRzdW5naHV4NHh6ZjhianAwcTNna2xqNmNpZmp3d3NueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
         width="40"
