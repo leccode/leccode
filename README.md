@@ -166,7 +166,11 @@
         height="40"
         alt="GIF"/>
     </td>
-    <td align="center">N</td>
+    <td align="center">
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>
+      </a>
+    </td>
     <td align="center">T</td>
   </tr>
   
