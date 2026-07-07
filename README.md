@@ -23,7 +23,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EA2845&center=true&vCenter=true&random=false&width=600&lines=Hyped+For+NestJS+Backend"
     alt="Typing Animation"/>
   <img
-    src="https://nestjs.com/logo-small-gradient.0ed287ce.svg"
+    src="https://nestjs.com/logo.svg"
     width="30%"
     height="30%"
     alt="GIF"/>
