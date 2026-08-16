@@ -14,7 +14,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=2500&color=E46824FF&center=true&vCenter=true&random=false&width=600&lines=And+Quantum+Computing!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=2500&color=E46824FF&center=true&vCenter=true&random=false&width=600&lines=And+Quantum+Computing/Physics/Biology!"
     alt="Typing Animation"/>
 </p>
 
