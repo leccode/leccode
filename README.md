@@ -18,7 +18,7 @@
     alt="Typing Animation"/>
 </p>
 
-<h3 align="center">
+<!-- <h3 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EA2845&center=true&vCenter=true&random=false&width=600&lines=Hyped+For+NestJS+Backend"
     alt="Typing Animation"/>
@@ -27,7 +27,7 @@
     width="30%"
     height="30%"
     alt="GIF"/>
-</h3>
+</h3> -->
 
 <p align="center">
   <img
