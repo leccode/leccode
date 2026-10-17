@@ -245,16 +245,16 @@
 
 | Git Cheat Sheet | Bash Commands |
 |:--------|:-----------|
-| **Git Windows Update** | git update-git-for-windows |
-| **Git Configs** | git config --list; git config --system --list; git config --global --list |
+| **Git Windows Update** | `git update-git-for-windows` |
+| **Git Configs** | `git config --list`; `git config --system --list`; `git config --global --list` |
 | **Git Workflow** | create remote repo |
-| **Git Workflow** | git init |
-| **Git Workflow** | git remote add origin {repo} |
-| **Git Workflow** | git pull origin main (--allow-unrelated-histories => if remote has files) |
-| **Git Workflow** | git branch -m main (If needed) |
-| **Git Workflow** | git add . |
-| **Git Workflow** | git commit -m "" |
-| **Git Workflow** | git push origin main |
+| **Git Workflow** | `git init` |
+| **Git Workflow** | `git remote add origin {repo}` |
+| **Git Workflow** | `git pull origin main` (--allow-unrelated-histories => if remote has files) |
+| **Git Workflow** | `git branch -m main` (If needed) |
+| **Git Workflow** | `git add .` |
+| **Git Workflow** | `git commit -m ""` |
+| **Git Workflow** | `git push origin main` |
 
 </div>
 
