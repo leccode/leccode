@@ -235,6 +235,12 @@
 
 <hr />
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F74015FF&center=true&vCenter=true&random=false&width=600&lines=Nextjs+Dev+Workflow"
+    alt="Typing Animation"/>
+</p>
+
 <div align="center">
 
 | Git Cheat Sheet | Bash Commands |
@@ -256,7 +262,7 @@
 
 <div align="center">
 
-| Docs Ref for installation/updates & guides | URL |
+| Docs Ref for installation/updates & guides; Deps | URL |
 |:--------|:-----------|
 | **Git** | [Git](https://git-scm.com/) |
 | **TypeScript** | [TypeScript](https://www.typescriptlang.org/) |
@@ -264,5 +270,7 @@
 | **npm** | [npm](https://www.npmjs.com/) |
 | **pnpm** | [pnpm](https://pnpm.io/) |
 | **Next.js** | [Next.js](https://nextjs.org/) |
+| **Tailwind CSS** | [Tailwind CSS](https://tailwindcss.com/) |
+| **shadcn/ui** | [shadcn/ui](https://ui.shadcn.com/) |
 
 </div>
