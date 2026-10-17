@@ -251,3 +251,18 @@
 | **Git Workflow** | git push origin main |
 
 </div>
+
+<hr />
+
+<div align="center">
+
+| Docs Ref for installation/updates & guides | URL |
+|:--------|:-----------|
+| **Git** | [Git](https://git-scm.com/) |
+| **TypeScript** | [TypeScript](https://www.typescriptlang.org/) |
+| **Node.js** | [Node.js](https://nodejs.org/en) |
+| **npm** | [npm](https://www.npmjs.com/) |
+| **pnpm** | [pnpm](https://pnpm.io/) |
+| **Next.js** | [Next.js](https://nextjs.org/) |
+
+</div>
