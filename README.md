@@ -275,5 +275,6 @@
 | **React Hook Form** | [React Hook Form](https://react-hook-form.com/) |
 | **Zod** | [Zod](https://zod.dev/) |
 | **Schema Validation** | `pnpm i @hookform/resolvers` |
+| **Convex Db** | [Convex](https://www.convex.dev/) (if needed run `pnpm approve-builds` and approve `esbuild`; `true` |
 
 </div>
