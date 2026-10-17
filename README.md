@@ -270,7 +270,7 @@
 | **npm** | [npm](https://www.npmjs.com/) |
 | **pnpm** | [pnpm](https://pnpm.io/) |
 | **Next.js** | [Next.js](https://nextjs.org/) |
-| **Tailwind CSS** | [Tailwind CSS](https://tailwindcss.com/) |
-| **shadcn/ui (if needed: run pnpm approve-builds, approve sharp; true and unrs-resolver; true)** | [shadcn/ui](https://ui.shadcn.com/) |
+| **Tailwind CSS (pre-installed with Next.js)** | [Tailwind CSS](https://tailwindcss.com/) |
+| **shadcn/ui (if needed: run `pnpm approve-builds`, approve `sharp`; `true` and `unrs-resolver`; `true`) (Radix UI; Vega)** | [shadcn/ui](https://ui.shadcn.com/) |
 
 </div>
