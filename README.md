@@ -237,7 +237,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F74015FF&center=true&vCenter=true&random=false&width=600&lines=Nextjs+Dev+Workflow"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F74015FF&center=true&vCenter=true&random=false&width=600&lines=Nextjs+Dev+Workflow+With+pnpm"
     alt="Typing Animation"/>
 </p>
 
@@ -271,6 +271,6 @@
 | **pnpm** | [pnpm](https://pnpm.io/) |
 | **Next.js** | [Next.js](https://nextjs.org/) |
 | **Tailwind CSS** | [Tailwind CSS](https://tailwindcss.com/) |
-| **shadcn/ui** | [shadcn/ui](https://ui.shadcn.com/) |
+| **shadcn/ui (if needed: run pnpm approve-builds, approve sharp; true and unrs-resolver; true)** | [shadcn/ui](https://ui.shadcn.com/) |
 
 </div>
