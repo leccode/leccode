@@ -280,5 +280,8 @@
 | **Convex Db Login** | `pnpm dlx convex login` (You may need to stop the local dev and use the command `pnpm dlx convex login` again and follow the related steps and then run `pnpm dlx convex dev`) |
 | **Convex Db Sample Data** | `pnpm dlx convex import --table tasks sampleData.jsonl` (keep following the steps to create the code for the query, and get the data) |
 | **Convex Db Run Dev Again** | `pnpm dlx convex dev` (Configure the test page) |
+| **Better Auth** | [Better Auth](https://better-auth.com/) |
+| **Run** | `pnpm i @convex-dev/better-auth` and `pnpm add better-auth@1.3.34 --save-exact` |
+| **Create convex.config.ts** | see the related file and `https://better-auth.com/docs/integrations/convex` |
 
 </div>
