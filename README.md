@@ -278,5 +278,6 @@
 | **Convex Db** | [Convex](https://www.convex.dev/) (if needed run `pnpm approve-builds` and approve `esbuild`; `true` |
 | **Convex Db Set Up Env** | `pnpm dlx convex dev` (if needed run `pnpm approve-builds` and approve `esbuild`; `true`) (follow steps to complete it) |
 | **Convex Db Login** | `npx convex login` (You may need to stop the local dev and use the command `npx convex login` again and follow the related steps and then run `npx convex dev`) |
+| **Convex Db Sample Data** | `pnpm dlx convex import --table tasks sampleData.jsonl` (keep following the steps to create the code for the query, and get the data) |
 
 </div>
