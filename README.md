@@ -18,6 +18,12 @@
     alt="Typing Animation"/>
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=2500&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Learning+Rust"
+    alt="Typing Animation"/>
+</p>
+
 <!-- <h3 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EA2845&center=true&vCenter=true&random=false&width=600&lines=Hyped+For+NestJS+Backend"
