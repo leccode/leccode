@@ -22,7 +22,7 @@ Biomedical engineer researching mechanistic neural networks.
 ### About
 
 - 🔬 **Researching:** MPhil in Computer Science & Informatics. Mechanistic neural networks, quantum computing and hardware for bioinformatics.
-- 💼 **Building:** 4+ years of backend and full-stack systems for banking, healthcare and logistics.
+- 💼 **Building:** 4+ years of backend and full-stack systems for banking and healthcare.
 - 🦀 **Learning:** Rust, one async worker at a time.
 - ✍️ **Writing:** science and tech notes on [my blog](https://leccode.github.io/blog/).
 
