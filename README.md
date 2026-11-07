@@ -2,10 +2,10 @@
 
 # Constantine Lekkos
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&pause=1400&color=7CC4FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%2B+Biomedical+Engineer%2C+MEng;Full-stack+systems+in+.NET%2C+TypeScript+and+Rust;Researching+physics-informed+neural+networks;Curious+about+quantum+computing" alt="Software Engineer and Biomedical Engineer, MEng" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&pause=1400&color=7CC4FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%2B+Biomedical+Engineer%2C+MEng;Full-stack+systems+in+.NET%2C+TypeScript+and+Rust;Researching+mechanistic+neural+networks;Curious+about+quantum+computing" alt="Software Engineer and Biomedical Engineer, MEng" />
 
 Software engineer building production systems.<br/>
-Biomedical engineer researching physics-informed neural networks.
+Biomedical engineer researching mechanistic neural networks.
 
 [![Website](https://img.shields.io/badge/ecco.dev-leccode.github.io-7CC4FF?style=flat-square&labelColor=0A1022&logo=githubpages&logoColor=white)](https://leccode.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Constantine_Lekkos-7CC4FF?style=flat-square&labelColor=0A1022&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantine-lekkos/)
@@ -21,7 +21,7 @@ Biomedical engineer researching physics-informed neural networks.
 
 ### About
 
-- 🔬 **Researching:** MPhil in Computer Science & Informatics. Physics-informed neural networks, quantum computing and hardware for bioinformatics.
+- 🔬 **Researching:** MPhil in Computer Science & Informatics. Mechanistic neural networks, quantum computing and hardware for bioinformatics.
 - 💼 **Building:** 4+ years of backend and full-stack systems for banking, healthcare and logistics.
 - 🦀 **Learning:** Rust, one async worker at a time.
 - ✍️ **Writing:** science and tech notes on [my blog](https://leccode.github.io/blog/).
