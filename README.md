@@ -36,24 +36,24 @@ Biomedical engineer researching physics-informed neural networks.
 
 ### Featured work
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| [DNA/RNA Knowledgebase](https://github.com/leccode/nucleic-acids-api) | Store and manage nucleic acid sequences ([UI](https://github.com/leccode/nucleic-acids-ui)) | .NET · SQL Server · Vue |
-| [GitHub Dashboard](https://github.com/leccode/github-dashboard) | Explore any profile through the GitHub API | React · Vite · Tailwind |
-| [Feedback Fusion](https://github.com/leccode/feedback-fusion) | Project built alongside a guided video tutorial | See repo |
-| [Physics-Informed Neural Networks](https://leccode.github.io/blog/physics-informed-neural-networks/) | Article: embedding physical laws into training | Deep learning |
+| Project                                                                                              | What it is                                                                                  | Stack                   |
+| :--------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :---------------------- |
+| [DNA/RNA Knowledgebase](https://github.com/leccode/nucleic-acids-api)                                | Store and manage nucleic acid sequences ([UI](https://github.com/leccode/nucleic-acids-ui)) | .NET · SQL Server · Vue |
+| [GitHub Dashboard](https://github.com/leccode/github-dashboard)                                      | Explore any profile through the GitHub API                                                  | React · Vite · Tailwind |
+| [Feedback Fusion](https://github.com/leccode/feedback-fusion)                                        | Project built alongside a guided video tutorial                                             | See repo                |
+| [Physics-Informed Neural Networks](https://leccode.github.io/blog/physics-informed-neural-networks/) | Article: embedding physical laws into training                                              | Deep learning           |
 
 ### Science notes
 
 <div align="center">
 
-| Concept | Expression |
-|:--|:--|
-| Probability density | $P(x,t) = \lvert\Psi(x,t)\rvert^2 = \Psi^\ast(x,t)\,\Psi(x,t)$ |
-| Normalization | $\int_{-\infty}^{\infty} \lvert\Psi(x,t)\rvert^2\,dx = 1$ |
-| Qubit state | $`\ket{\psi} = \alpha\ket{0} + \beta\ket{1}`$ |
-| Neuron | $\hat{y} = \sigma(w^\top x + b)$ |
-| PINN loss | $\mathcal{L} = \mathcal{L}_{\text{data}} + \lambda\,\mathcal{L}_{\text{physics}}$ |
+| Concept             | Expression                                                                         |
+| :------------------ | :--------------------------------------------------------------------------------- |
+| Probability density | $P(x,t) = \lvert\Psi(x,t)\rvert^2 = \Psi^\ast(x,t)\,\Psi(x,t)$                     |
+| Normalization       | $\int_{-\infty}^{\infty} \lvert\Psi(x,t)\rvert^2\,dx = 1$                          |
+| Qubit state         | $`\ket{\psi} = \alpha\ket{0} + \beta\ket{1}`$                                      |
+| Neuron              | $\hat{y} = \sigma(w^\top x + b)$                                                   |
+| PINN loss           | $`\mathcal{L} = \mathcal{L}_{\text{data}} + \lambda \mathcal{L}_{\text{physics}}`$ |
 
 </div>
 
@@ -83,13 +83,13 @@ git config --list               # all settings (--system / --global to filter)
 
 **Next.js stack with pnpm**
 
-| Tool | Notes |
-|:--|:--|
-| [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/) | Tailwind comes preconfigured with `create-next-app` |
-| [shadcn/ui](https://ui.shadcn.com/) | If prompted, run `pnpm approve-builds` and approve `sharp` and `unrs-resolver` |
-| [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/) | Connect them with `pnpm i @hookform/resolvers` |
-| [Convex](https://www.convex.dev/) | `pnpm dlx convex dev` to set up; approve `esbuild` if prompted |
-| [Better Auth](https://better-auth.com/) | `pnpm i @convex-dev/better-auth` and `pnpm add better-auth@1.3.34 --save-exact`; see the [Convex integration guide](https://better-auth.com/docs/integrations/convex) |
+| Tool                                                                      | Notes                                                                                                                                                                 |
+| :------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/) | Tailwind comes preconfigured with `create-next-app`                                                                                                                   |
+| [shadcn/ui](https://ui.shadcn.com/)                                       | If prompted, run `pnpm approve-builds` and approve `sharp` and `unrs-resolver`                                                                                        |
+| [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/) | Connect them with `pnpm i @hookform/resolvers`                                                                                                                        |
+| [Convex](https://www.convex.dev/)                                         | `pnpm dlx convex dev` to set up; approve `esbuild` if prompted                                                                                                        |
+| [Better Auth](https://better-auth.com/)                                   | `pnpm i @convex-dev/better-auth` and `pnpm add better-auth@1.3.34 --save-exact`; see the [Convex integration guide](https://better-auth.com/docs/integrations/convex) |
 
 **Convex tips**
 
