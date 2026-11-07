@@ -1,293 +1,105 @@
-<h1 align="center">Hi 👋, I'm Constantine | Biomedical Engineer, MEng</h1>
+<div align="center">
+
+# Constantine Lekkos
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=20&pause=1400&color=7CC4FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%2B+Biomedical+Engineer%2C+MEng;Full-stack+systems+in+.NET%2C+TypeScript+and+Rust;Researching+physics-informed+neural+networks;Curious+about+quantum+computing" alt="Software Engineer and Biomedical Engineer, MEng" />
+
+Software engineer building production systems.<br/>
+Biomedical engineer researching physics-informed neural networks.
+
+[![Website](https://img.shields.io/badge/ecco.dev-leccode.github.io-7CC4FF?style=flat-square&labelColor=0A1022&logo=githubpages&logoColor=white)](https://leccode.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Constantine_Lekkos-7CC4FF?style=flat-square&labelColor=0A1022&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constantine-lekkos/)
+[![Email](https://img.shields.io/badge/Email-costas.lekkos%40gmail.com-7CC4FF?style=flat-square&labelColor=0A1022&logo=gmail&logoColor=white)](mailto:costas.lekkos@gmail.com)
+
+</div>
+
+---
+
+### About
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpvdWtyMTlhNDRxeHh4c3U1MDF2Njh5OWtweW56OWk5MmEzN20zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="220" alt="Cat typing on a keyboard" />
+
+- 🔬 **Researching:** MPhil in Computer Science & Informatics. Physics-informed neural networks, quantum computing and hardware for bioinformatics.
+- 💼 **Building:** 4+ years of backend and full-stack systems for banking, healthcare and logistics.
+- 🦀 **Learning:** Rust, one async worker at a time.
+- ✍️ **Writing:** science and tech notes on [my blog](https://leccode.github.io/blog/).
+
+### Tech stack
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F74015FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+With+Passion+About+👇"
-    alt="Typing Animation"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,rust,nodejs,py&perline=10" alt="C#, .NET, Rust, Node.js, Python" /></a><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vue,tailwind,html,css&perline=10" alt="TypeScript, JavaScript, React, Next.js, Angular, Vue, Tailwind CSS, HTML, CSS" /></a><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,linux,git,postman,arduino,sklearn,matlab&perline=10" alt="PostgreSQL, MongoDB, Docker, AWS, Linux, Git, Postman, Arduino, scikit-learn, MATLAB" /></a>
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=2000&color=A90BA6FF&center=true&vCenter=true&random=false&width=600&lines=Algorithms,+Full-Stack,+AI"
-    alt="Typing Animation"/>
-</p>
+<p align="center"><sub>Also: SQL Server, Blazor, pandas, REST APIs, Clean Architecture, SOLID</sub></p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=2500&color=E46824FF&center=true&vCenter=true&random=false&width=600&lines=And+Quantum+Computing/Physics/Biology!"
-    alt="Typing Animation"/>
-</p>
+### Featured work
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=2500&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Learning+Rust"
-    alt="Typing Animation"/>
-</p>
+| Project | What it is | Stack |
+|:--|:--|:--|
+| [DNA/RNA Knowledgebase](https://github.com/leccode/nucleic-acids-api) | Store and manage nucleic acid sequences ([UI](https://github.com/leccode/nucleic-acids-ui)) | .NET · SQL Server · Vue |
+| [GitHub Dashboard](https://github.com/leccode/github-dashboard) | Explore any profile through the GitHub API | React · Vite · Tailwind |
+| [Feedback Fusion](https://github.com/leccode/feedback-fusion) | Project built alongside a guided video tutorial | See repo |
+| [Physics-Informed Neural Networks](https://leccode.github.io/blog/physics-informed-neural-networks/) | Article: embedding physical laws into training | Deep learning |
 
-<!-- <h3 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EA2845&center=true&vCenter=true&random=false&width=600&lines=Hyped+For+NestJS+Backend"
-    alt="Typing Animation"/>
-  <img
-    src="https://nestjs.com/logo.svg"
-    width="30%"
-    height="30%"
-    alt="GIF"/>
-</h3> -->
-
-<p align="center">
-  <img
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpvdWtyMTlhNDRxeHh4c3U1MDF2Njh5OWtweW56OWk5MmEzN20zMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
-    width="30%"
-    height="30%"
-    alt="GIF"/>
-  <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBkajBja3Z3M3VxMmF4b2tyY3lkdWlvYTNqNDhhMjV3NmNiOW1reSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rO0OZ7t368lTVrvlWW/giphy.gif"
-    width="30%"
-    height="30%"
-    alt="GIF"/>
-  <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhnN3d1N3MxMjRtbTBmaDV3YXB2ZXd4N3kzdXozOXF0dGliNDVwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6qfWAtkBuymg7glaO/giphy.gif"
-    width="30%"
-    height="30%"
-    alt="GIF"/>
-</p>
-
-<h3 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F74015FF&center=true&vCenter=true&random=false&width=600&lines=Science+And+Engineering"
-    alt="Typing Animation"/>
-</h3>
+### Science notes
 
 <div align="center">
 
 | Concept | Expression |
-|:--------|:-----------|
-| **⚡ Probability Density Function** | $P(x,t) = \lvert\Psi(x,t)\rvert^2 = \Psi^*(x,t)\Psi(x,t)$ |
-| **🔭 Total Probability** | $P(a \le x \le b, t) = \int_a^b \lvert\Psi(x,t)\rvert^2dx$ |
-| **🤔 Normalization Condition** | $\int_{-\infty}^{\infty} \lvert\Psi(x,t)\rvert^2dx = 1$ |
-| **〰️ Quantum State (Dirac Notation)** | $`\ket{\psi} = \begin{pmatrix}α\\β\end{pmatrix} = α\ket{0} + β\ket{1}`$ |
-| **🧠 Neuron Activation Signal** | $\hat{y} = w^T X + b$ |
-| **💬 Activation Function (ReLU)** | $\text{ReLU}(x) = \max(0, x)$ |
-| **📫 Contact** | [costas.lekkos@gmail.com](mailto:costas.lekkos@gmail.com) |
+|:--|:--|
+| Probability density | $P(x,t) = \lvert\Psi(x,t)\rvert^2 = \Psi^\ast(x,t)\,\Psi(x,t)$ |
+| Normalization | $\int_{-\infty}^{\infty} \lvert\Psi(x,t)\rvert^2\,dx = 1$ |
+| Qubit state | $`\ket{\psi} = \alpha\ket{0} + \beta\ket{1}`$ |
+| Neuron | $\hat{y} = \sigma(w^\top x + b)$ |
+| PINN loss | $\mathcal{L} = \mathcal{L}_{\text{data}} + \lambda\,\mathcal{L}_{\text{physics}}$ |
 
 </div>
 
-<p align="center">
-  <img
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndoZjY0dGZ6dDB3ZXJoeDkxZDNvY2pobTBycm1zcGFhaXhlemV0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13twUEuUnCrEju/giphy.gif"
-    width="30%"
-    height="30%"
-    alt="GIF"/>
-</p>
+<details>
+<summary><b>🛠️ Dev notes: Git and Next.js workflow</b></summary>
 
-<h3 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F74015FF&center=true&vCenter=true&random=false&width=600&lines=Tech-Stack+And+Tools"
-    alt="Typing Animation"/>
-</h3>
+<br/>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">D</td>
-    <td align="center">A</td>
-    <td align="center">T</td>
-    <td align="center">A</td>
-    <td align="center">B</td>
-    <td align="center">A</td>
-    <td align="center">S</td>
-    <td align="center">E</td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">B</td>
-    <td align="center">A</td>
-    <td align="center">C</td>
-    <td align="center">
-      <img
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW94eHk3NTc5MTBnZHp2NjFoMG9yMGgyN3JqcW5reWh5cG14ZGRzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlqCSOe3zi65vfErwS/giphy.gif"
-        width="40"
-        height="40"
-        alt="GIF"/>
-    </td>
-    <td align="center">K</td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">F</td>
-    <td align="center">R</td>
-    <td align="center">
-      <img
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRnYm9md2RuamZ1bHppcjB6djhoOGxvN25kdm1nOG45M3hxcTNzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9j5LELD2fSz2aYGGCe/giphy.gif"
-        width="40"
-        height="40"
-        alt="GIF"/>
-    </td>
-    <td align="center">
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">T</td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">T</td>
-    <td align="center">
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">L</td>
-    <td align="center">
-      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <img
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpNHJ1dnRzdW5naHV4NHh6ZjhianAwcTNna2xqNmNpZmp3d3NueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
-        width="40"
-        height="40"
-        alt="GIF"/>
-    </td>
-  </tr>
-</table>
+**Git: new project**
 
-<hr />
+```bash
+git init
+git remote add origin <repo-url>
+git pull origin main --allow-unrelated-histories   # only if the remote already has files
+git branch -M main
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+```
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F74015FF&center=true&vCenter=true&random=false&width=600&lines=Nextjs+Dev+Workflow+With+pnpm"
-    alt="Typing Animation"/>
-</p>
+**Git: useful extras**
 
-<div align="center">
+```bash
+git update-git-for-windows      # update Git on Windows
+git config --list               # all settings (--system / --global to filter)
+```
 
-| Git Cheat Sheet | Bash Commands |
-|:--------|:-----------|
-| **Git Windows Update** | `git update-git-for-windows` |
-| **Git Configs** | `git config --list`; `git config --system --list`; `git config --global --list` |
-| **Git Workflow** | create remote repo |
-| **Git Workflow** | `git init` |
-| **Git Workflow** | `git remote add origin {repo}` |
-| **Git Workflow** | `git pull origin main` (--allow-unrelated-histories => if remote has files) |
-| **Git Workflow** | `git branch -m main` (If needed) |
-| **Git Workflow** | `git add .` |
-| **Git Workflow** | `git commit -m ""` |
-| **Git Workflow** | `git push origin main` |
+**Next.js stack with pnpm**
 
-</div>
+| Tool | Notes |
+|:--|:--|
+| [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/) | Tailwind comes preconfigured with `create-next-app` |
+| [shadcn/ui](https://ui.shadcn.com/) | If prompted, run `pnpm approve-builds` and approve `sharp` and `unrs-resolver` |
+| [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/) | Connect them with `pnpm i @hookform/resolvers` |
+| [Convex](https://www.convex.dev/) | `pnpm dlx convex dev` to set up; approve `esbuild` if prompted |
+| [Better Auth](https://better-auth.com/) | `pnpm i @convex-dev/better-auth` and `pnpm add better-auth@1.3.34 --save-exact`; see the [Convex integration guide](https://better-auth.com/docs/integrations/convex) |
 
-<hr />
+**Convex tips**
 
-<div align="center">
+```bash
+pnpm dlx convex login                                     # if dev asks you to log in, stop dev, log in, restart
+pnpm dlx convex import --table tasks sampleData.jsonl     # load sample data
+```
 
-| Docs Ref for installation/updates & guides; Deps | URL |
-|:--------|:-----------|
-| **Git** | [Git](https://git-scm.com/) |
-| **TypeScript** | [TypeScript](https://www.typescriptlang.org/) |
-| **Node.js** | [Node.js](https://nodejs.org/en) |
-| **npm** | [npm](https://www.npmjs.com/) |
-| **pnpm** | [pnpm](https://pnpm.io/) |
-| **Next.js** | [Next.js](https://nextjs.org/) |
-| **Tailwind CSS (pre-installed with Next.js)** | [Tailwind CSS](https://tailwindcss.com/) |
-| **shadcn/ui (if needed: run `pnpm approve-builds`, approve `sharp`; `true` and `unrs-resolver`; `true`) (Radix UI; Vega; button component) (Install theme provider) (Dropdown Menu, card, field, input, separator installation)** | [shadcn/ui](https://ui.shadcn.com/) |
-| **React Hook Form** | [React Hook Form](https://react-hook-form.com/) |
-| **Zod** | [Zod](https://zod.dev/) |
-| **Schema Validation** | `pnpm i @hookform/resolvers` |
-| **Convex Db** | [Convex](https://www.convex.dev/) (if needed run `pnpm approve-builds` and approve `esbuild`; `true` |
-| **Convex Db Set Up Env** | `pnpm dlx convex dev` (if needed run `pnpm approve-builds` and approve `esbuild`; `true`) (follow steps to complete it) |
-| **Convex Db Login** | `pnpm dlx convex login` (You may need to stop the local dev and use the command `pnpm dlx convex login` again and follow the related steps and then run `pnpm dlx convex dev`) |
-| **Convex Db Sample Data** | `pnpm dlx convex import --table tasks sampleData.jsonl` (keep following the steps to create the code for the query, and get the data) |
-| **Convex Db Run Dev Again** | `pnpm dlx convex dev` (Configure the test page) |
-| **Better Auth** | [Better Auth](https://better-auth.com/) |
-| **Run** | `pnpm i @convex-dev/better-auth` and `pnpm add better-auth@1.3.34 --save-exact` |
-| **Create convex.config.ts** | see the related file and `https://better-auth.com/docs/integrations/convex` |
+</details>
 
-</div>
+---
+
+<p align="center"><sub>Open to interesting projects and research collaborations. Say hi at <a href="mailto:costas.lekkos@gmail.com">costas.lekkos@gmail.com</a>.</sub></p>
